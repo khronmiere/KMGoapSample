@@ -1,0 +1,3 @@
+[submodule "Plugins/KMGoap"]
+	path = Plugins/KMGoap
+	url = https://github.com/khronmiere/KMGoap.git
